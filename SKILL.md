@@ -3,7 +3,7 @@ name: emptiness-analysis
 description: Identify where creating space, removing excess, or embracing emptiness would serve better than adding more.
 license: MIT
 metadata:
-  version: 1.0.3902
+  version: 1.0.3903
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
